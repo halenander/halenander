@@ -1,5 +1,5 @@
-### Hi there 👋
-Currently a undergraduate CS 💻 student at the University of San Francisco 🌉. Located in Honolulu Hawaii 🌴 for the time being. New to CS but very eager to learn 😃!
+### Aloha!
+Currently a undergraduate CS student at the University of San Francisco. Located in Honolulu Hawaii for the time being. New to CS but very eager to learn 😃!
 
 <!--
 **halenander/halenander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
