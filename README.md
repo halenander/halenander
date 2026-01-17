@@ -1,5 +1,5 @@
 ### Aloha!
-(she/her) New grad CS student from the University of San Francisco. Born and raised in Honolulu, Hawaii. Excited to enter the CS job market and make my mark. I'm currently working my personal portfolio website.
+(she/her) New grad CS student from the University of San Francisco. Born and raised in Honolulu, Hawaii.
 
 <!--
 **halenander/halenander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
